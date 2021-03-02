@@ -139,6 +139,12 @@
     "name":"Ulma Las Palmas"
   },
   {
+    "key":"ulma_vitoria",
+    "latitude":42.948239,
+    "longitude":-2.641916,
+    "name":"Ulma Vitoria-Gasteiz"
+  },
+  {
     "key":"ulma_toledo",
     "latitude":39.751502,
     "longitude":-3.989403,
