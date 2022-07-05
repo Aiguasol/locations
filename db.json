@@ -149,6 +149,12 @@
     "latitude":39.751502,
     "longitude":-3.989403,
     "name":"Ulma Toledo"
+  },
+  {
+    "key":"ben_guerir",
+    "latitude":32.2359364,
+    "longitude":-7.9538378,
+    "name":"Ben Guerir"
   }
  ]  
 }
